@@ -2,4 +2,5 @@
 *tfstate
 variables.tf
 .terraform
-
+*tfstate.lock.info
+*tfstate.backup
