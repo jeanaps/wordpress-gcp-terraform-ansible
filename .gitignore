@@ -1,5 +1,5 @@
 *.json
-*tfstate
+*tfstate*
 variables.tf
 .terraform
 *tfstate.lock.info
